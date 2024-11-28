@@ -10,6 +10,7 @@
   <body>
     <div class="container-fluir"style=background:#d2b4de;text-align:center>
   <h1>Bienvenidos a ITSAO</h1>
+  <h1>Miriam Mendez Balbuena</h1>
   <img src="Cliente/img/TAURO.png" width="100" height="100">
 </div>
     <div class="container"style=background:#af7ac5;>
